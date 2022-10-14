@@ -12,4 +12,3 @@
 - 📫 How to reach me: sakshigusain1511@gmail.com 
 - ⚡ Fun fact: Highly interested in science fiction and Psychology too.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sak-15&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
