@@ -5,6 +5,7 @@
 # 👩‍💻 Welcome to My Journey! 👨‍💻
 
 Hey there! 👋 I'm Sakshi Gusain, and I'm passionate about all things data! 
+
 Data Analyst / Analytics Engineer with experience across fintech, machine learning systems, and backend engineering.
 
 Previously worked at:
