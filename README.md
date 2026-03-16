@@ -4,7 +4,15 @@
  
 # 👩‍💻 Welcome to My Journey! 👨‍💻
 
-Hey there! 👋 I'm Sakshi Gusain, and I'm passionate about all things data! As a budding Data Scientist, I'm on an exciting quest to unravel the mysteries hidden within datasets, turning raw information into meaningful insights.
+Hey there! 👋 I'm Sakshi Gusain, and I'm passionate about all things data! 
+Data Analyst / Analytics Engineer with experience across fintech, machine learning systems, and backend engineering.
+
+Previously worked at:
+• Amazon – backend systems for payment processing
+• National Australia Bank – ML pipelines and feature store systems
+• Upflow – product and financial analytics
+
+I enjoy building data-driven systems that turn complex data into actionable insights.
 
 ## 🔭 What I'm Up To
 
